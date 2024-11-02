@@ -1,3 +1,3 @@
-name = "ha3
+name = "ha3"
 main = "api/worker.js"
 compatibility_date = "2024-06-02"
